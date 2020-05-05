@@ -1,0 +1,44 @@
+{
+
+"products": [
+
+  {
+    "id": 1,
+    "name" : "Apple",
+    "description" : "Red apples",
+    "img" : "https://tachyons.io/img/avatar_1.jpg",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name" : "Oranges",
+    "description" : "Red apples",
+    "img" : "https://tachyons.io/img/avatar_1.jpg",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "name" : "Pineapple",
+    "description" : "Red apples",
+    "img" : "https://tachyons.io/img/avatar_1.jpg",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name" : "Beirut",
+    "description" : "Red apples",
+    "img" : "https://tachyons.io/img/avatar_1.jpg",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "name" : "Banana",
+    "description" : "Red apples",
+    "img" : "https://tachyons.io/img/avatar_1.jpg",
+    "price": 100
+  }
+
+
+]
+
+}
